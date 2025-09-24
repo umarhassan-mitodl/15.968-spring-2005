@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Sociology"
+    ],
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Business",
+      "Organizational Behavior"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Industrial Organization"
+    ]
+  ],
+  "legacy_uid": "5554af97-3587-007f-d280-5741a764ad49",
+  "instructors": {
+    "content": [
+      "f8776d61-f1c4-3cff-ec92-3c5d9a7ec6a5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4d0369d5-b651-86af-68b9-e60cdcda1a50",
+    "website": "15-968-the-sociology-of-strategy-spring-2005"
+  },
+  "course_title": "The Sociology of Strategy",
+  "course_description": "This seminar provides an introduction to scholarship in a growing research community: the sociologists and sociologically-inclined organization theorists who study issues that relate, at least in a broad sense, to the interdisciplinary field of inquiry that is known as \"strategy\" or \"strategic management\" research. The course is not designed to survey the field of strategy. Rather, the focus is on getting a closer understanding of the recent work by sociologists and sociologically-oriented organization theorists that investigates central questions in strategic management. In particular, we will be concerned with identifying and assessing sociological work that aims to shed light on: (a) relative firm performance; (b) the nature of competition and market interaction; (c) organizational capabilities; (d) the beginnings of industries and firms; (e) the diffusion or transfer of ideas and practices across firms; and (f) strategic change.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.968",
+  "course_image_thumbnail": {
+    "content": "a8c9939a-dd72-321d-2f3f-dc5bc6bdba25",
+    "website": "15-968-the-sociology-of-strategy-spring-2005"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "514b4053-a415-43d8-8e61-bf8c2b3f987e",
+  "site_short_id": "15.968-spring-2005",
+  "site_url_path": "courses/15-968-the-sociology-of-strategy-spring-2005",
+  "title": "Course Metadata"
+}
